@@ -1,3 +1,4 @@
+[About fission](https://github.com/emeraldTable/Equations/blob/main/Heat-Energy/Nuclear/fission/readme.md)  
 Here are the equations without descriptions used in nuclear fission:  
 
 1. Einstein's Mass-Energy Equation:  

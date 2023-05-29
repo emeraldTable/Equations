@@ -61,20 +61,56 @@ It's important to note that this formula provides a simplified representation of
           ν represents the average number of neutrons released per fission event.  
          Σf represents the macroscopic fission cross section.  
 
-The neutron diffusion equation describes
- the balance between neutron production and loss in a medium.
-  The left-hand side represents the spatial variation of the neutron flux and
-   the absorption of neutrons,
-    while the right-hand side represents neutron scattering and fission events.
-
- It's important to note that this is a simplified form of the neutron diffusion equation,
-  and there are additional terms and considerations that can be included based on
-   the specific problem being solved.
-    The equation can also be expanded to include time-dependent behavior if necessary.
-
-6. Prompt Neutron Lifetime Equation:
-This equation calculates the average time it takes for a prompt neutron to induce fission and is an important parameter in nuclear reactor dynamics.
-
+The neutron diffusion equation describes  
+ the balance between neutron production and loss in a medium.  
+  The left-hand side represents the spatial variation of the neutron flux and  
+   the absorption of neutrons,  
+    while the right-hand side represents neutron scattering and fission events.  
+  
+ It's important to note that this is a simplified form of the neutron diffusion equation,  
+  and there are additional terms and considerations that can be included based on  
+   the specific problem being solved.  
+    The equation can also be expanded to include time-dependent behavior if necessary.  
+  
+6. Prompt Neutron Lifetime Equation:  
+    This equation calculates the average time it takes for a prompt neutron  
+     to induce fission and is an important parameter in nuclear reactor dynamics.  
+      The prompt neutron lifetime equation describes the time behavior of prompt neutrons in a nuclear reactor.  
+       
+      It can be expressed as:  
+    
+       Λ = β / (λ - α)  
+    
+     In this formula,  
+       Λ represents the prompt neutron lifetime,  
+       β represents the effective delayed neutron fraction,  
+       λ represents the effective neutron decay constant,  
+       α represents the effective neutron generation time.  
+      
+    The prompt neutron lifetime  
+      (Λ) is the average time it takes for a prompt neutron to undergo a fission event and be absorbed.  
+           It is determined by the balance between neutron production and loss in the reactor.  
+      
+    The effective delayed neutron fraction  
+      (β) represents the fraction of neutrons that are emitted from fission products  
+           after a certain delay time.  
+          These delayed neutrons play a crucial role in controlling the reactor's behavior and stability.  
+    
+    The effective neutron decay constant  
+      (λ) represents the rate at which neutrons decay and are lost in the reactor.  
+    
+    The effective neutron generation time  
+      (α) represents the average time it takes for a neutron to be born from a fission event  
+           and induce another fission event.  
+            It is a measure of the neutron population growth in the reactor.  
+    
+It's important to note that this equation provides a simplified representation of  
+ the prompt neutron lifetime and does not consider all the intricacies of  
+  neutron behavior in a nuclear reactor.  
+   In practice,  
+    the values of β, λ, and α are obtained from detailed reactor calculations and  
+     may vary depending on the specific reactor design and operating conditions.  
+    
 7. Neutron Multiplication Factor Equation:
 The neutron multiplication factor (k) represents the number of neutrons produced by fission compared to the number of neutrons lost through absorption or leakage. It is calculated using various equations and factors.
 

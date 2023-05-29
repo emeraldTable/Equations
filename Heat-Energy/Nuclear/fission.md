@@ -232,3 +232,116 @@ Here are the equations without descriptions used in nuclear fission:
           These equations are utilized in the study and analysis of nuclear fission reactions, reactor physics, and   
            nuclear power generation.  
             They provide insights into the behavior of neutrons, energy release, and the dynamics of nuclear fission processes.  
+
+11. Neutron Energy Distribution Equations:  
+     These equations describe the energy distribution of neutrons in a nuclear fission system.  
+      They provide information about the energy spectrum and the probabilities of neutron interactions with various materials.  
+
+12. Fission Cross Section Equation:  
+     The fission cross section (σf) is a measure of the likelihood of a nucleus undergoing fission when struck by a neutron.  
+      The equation for the fission cross section depends on the target nucleus and the energy of the incident neutron.  
+
+13. Neutron Scattering Equations:  
+     These equations describe the scattering of neutrons by atomic nuclei.  
+      They help characterize the behavior of neutrons as they interact with various materials in a nuclear fission system.  
+  
+14. Neutron Flux Equation:  
+     The neutron flux represents the density of neutrons in a particular region of a nuclear system.  
+      The neutron flux equation describes the distribution and variation of neutron flux throughout the system.  
+
+15. Neutron Diffusion Theory Equations:  
+     Neutron diffusion theory is a mathematical framework used to analyze the behavior of neutrons in a nuclear fission system.  
+      It involves a set of partial differential equations that describe neutron transport and the distribution of neutron flux.  
+  
+16. Fission Fragment Distribution Equations:  
+     These equations describe the distribution of fission fragments produced during a nuclear fission reaction.  
+      They provide information about the mass and charge distribution of the fragments.  
+  
+17. Fission Neutron Spectrum Equations:  
+     The fission neutron spectrum refers to the distribution of neutron energies produced during the fission process.  
+      Various equations and models are used to describe the energy spectrum of fission neutrons.  
+  
+18. Prompt Neutron Emission Equations:  
+     Prompt neutrons are the neutrons emitted immediately after a fission event.  
+      Equations are used to describe the timing, energy distribution, and angular distribution of these prompt neutrons.  
+
+These equations play a crucial role in understanding and analyzing the behavior of neutrons,  
+energy release, and the overall dynamics of nuclear fission reactions.  
+They are utilized in fields such as reactor physics, nuclear engineering,  
+and nuclear power generation to design and optimize nuclear reactors and ensure their safe and efficient operation.  
+
+19. Neutron Capture Cross Section Equation:  
+     The neutron capture cross section (σc) is a measure of the probability of a nucleus capturing a neutron.  
+      This equation describes the likelihood of neutron capture by a target nucleus.  
+  
+20. Neutron Flux Distribution Equations:  
+     These equations describe the spatial distribution of neutron flux within a nuclear fission system.  
+      They provide information about the variation of neutron flux across different regions of the system.  
+
+21. Fission Product Yield Equations:  
+     These equations determine the distribution of different fission products produced during a nuclear fission reaction.  
+      They provide information about the relative abundance of various isotopes formed as a result of fission.  
+  
+22. Delayed Neutron Precursor Equations:  
+     Delayed neutrons are neutrons emitted after a short delay following a fission event.  
+      Equations are used to describe the behavior of delayed neutron precursors,  
+       including their production rates and decay characteristics.  
+
+23. Neutron Energy Deposition Equations:  
+     These equations describe the deposition of energy by neutrons as they interact with materials in a nuclear fission system.  
+      They help assess the heat generation and the impact of neutron radiation on surrounding materials.  
+  
+24. Neutron Diffusion Length Equation:  
+     The neutron diffusion length is a measure of the average distance traveled by neutrons before  
+      they are absorbed or leak out of a medium. This equation relates the neutron diffusion length to other parameters,  
+       such as the diffusion coefficient and absorption cross section.  
+  
+25. Fission Barrier Height Equation:  
+     The fission barrier height represents the energy required to overcome the electrostatic repulsion between fission fragments  
+      during the fission process. Equations are used to estimate the fission barrier height based on the nuclear properties  
+       of the involved isotopes.  
+
+These additional equations contribute to the understanding and analysis of nuclear fission processes,  
+ neutron behavior, and the overall dynamics of nuclear reactions.  
+  They are crucial for reactor design, safety analysis, and the optimization of nuclear energy systems.  
+  
+26. Fission Neutron Multiplicity Equation:  
+     The fission neutron multiplicity equation describes the average number of neutrons emitted per fission event.  
+      It takes into account various factors such as the incident neutron energy and the target nucleus.  
+  
+27. Neutron Energy Dependent Fission Cross Section Equation:  
+     The fission cross section is dependent on the energy of the incident neutrons.  
+      This equation describes how the fission cross section varies with neutron energy.  
+
+28. Fission Barrier Penetration Equation:  
+     The fission barrier penetration equation is used to calculate the probability of a nucleus overcoming  
+      the fission barrier and undergoing fission.  
+       It involves the transmission coefficient, which accounts for the quantum mechanical tunneling effect.  
+
+29. Neutron Leakage Equation:  
+     The neutron leakage equation describes the loss of neutrons from a nuclear fission system due to leakage  
+      through the boundaries or escape from the system.  
+       It takes into account factors such as the neutron diffusion coefficient and the system geometry.  
+
+30. Neutron Moderation Equation:  
+     The neutron moderation equation describes the process of reducing the energy of fast neutrons through collisions  
+      with a moderator material, such as water or graphite.  
+       It relates the change in neutron energy to the scattering cross section and the moderating material properties.  
+  
+31. Prompt Neutron Lifetime Equation:  
+     The prompt neutron lifetime equation calculates the average time it takes for a prompt neutron to induce fission  
+      after being emitted.
+       It considers factors such as neutron transport, scattering, and absorption processes.  
+
+32. Neutron Poisoning Equations:  
+     Neutron poisoning equations are used to analyze the effect of neutron-absorbing materials,  
+      such as control rods or poisons, on the neutron population and reactivity of a nuclear fission system.  
+  
+33. Delayed Neutron Fraction Equation:  
+     The delayed neutron fraction equation calculates the ratio of delayed neutrons to total neutrons emitted during fission.  
+      It provides valuable information for reactor control and stability.  
+
+These equations, along with the previously mentioned ones,  
+ form the basis for understanding and analyzing nuclear fission reactions, reactor physics,  
+  and the behavior of neutrons in nuclear systems.  
+   They are instrumental in the design, operation, and safety assessment of nuclear reactors.  

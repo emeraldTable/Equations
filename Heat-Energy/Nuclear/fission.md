@@ -346,3 +346,37 @@ These equations, along with the previously mentioned ones,
  form the basis for understanding and analyzing nuclear fission reactions, reactor physics,  
   and the behavior of neutrons in nuclear systems.  
    They are instrumental in the design, operation, and safety assessment of nuclear reactors.  
+
+34. Fission Neutron Energy Deposition Equation:  
+     This equation calculates the energy deposited by fission neutrons in a material.  
+      It takes into account factors such as the neutron energy spectrum, the material composition,  
+       and the cross sections for neutron interactions.  
+
+35. Neutron Spectrum Unfolding Equations:   
+     Unfolding equations are used to reconstruct the neutron energy spectrum from measured neutron flux data.  
+      These equations involve iterative techniques and mathematical algorithms to estimate the neutron spectrum.  
+
+36. Neutron Transport Equations:  
+     The neutron transport equations describe the behavior of neutrons as they move through a medium.  
+      They take into account factors such as neutron scattering, absorption, and leakage.  
+       The most common form is the Boltzmann transport equation.  
+
+37. Fission Neutron Yield Equations:  
+     These equations determine the number of neutrons produced per fission event for different isotopes.  
+      They are essential for predicting the neutron population and reaction rates in a nuclear fission system.  
+
+38. Fission Product Decay Equations:  
+     Fission product decay equations describe the radioactive decay of fission products over time.  
+      They involve exponential decay functions and provide information about the decay constants and half-lives of various isotopes.  
+
+39. Neutron Energy Spectra Adjustment Equations:  
+     Neutron energy spectra adjustment equations are used to modify the energy distribution of neutrons based on  
+      experimental measurements or computational simulations. They help improve the accuracy of neutron transport calculations.  
+
+40. Neutron Multiplication Equations:  
+     These equations determine the neutron multiplication factor (k) for a nuclear fission system.  
+      The multiplication factor represents the ratio of the number of neutrons in one generation to the number in  
+       the previous generation and is an indicator of criticality.  
+
+These additional equations play vital roles in nuclear fission research, reactor design, and nuclear safety analysis.  
+They contribute to understanding neutron behavior, energy deposition, radiation effects, and the overall performance of nuclear systems.  

@@ -146,13 +146,89 @@ Here are the equations without descriptions used in nuclear fission:
        In practice, more comprehensive calculations and simulations are performed to accurately determine  
         the k-eff value for a given reactor configuration.  
         
-8. Decay Equations:
-Decay equations are used to describe the decay of radioactive isotopes, including the decay of fission products produced during a nuclear fission reaction.
+8. Decay Equations:  
+    Decay equations are used to describe the decay of radioactive isotopes,  
+     including the decay of fission products produced during a nuclear fission reaction.  
+      Decay equations describe the exponential decay of radioactive materials over time.  
+       The general formula for a decay equation can be expressed as:  
+  
+       N(t) = N₀ * e^(-λt)
 
-9. Fission Yield Equations:
-These equations describe the distribution of different fission products and their yields based on the initial fission event.
+      In this formula,  
+       N(t) represents the quantity of the radioactive material at time t,  
+         N₀ represents the initial quantity of the radioactive material at t = 0,  
+          λ represents the decay constant, and e is the base of the natural logarithm.  
+  
+     The decay constant (λ) is a characteristic property of a specific radioactive material  
+      and is related to the half-life (t½) of the material through the equation:  
+   
+       λ = ln(2) / t½
 
-10. Fission Product Decay Heat Equations:
-These equations calculate the heat produced by the radioactive decay of fission products and are important for reactor design and safety analysis.
-
-These equations are utilized in the study and analysis of nuclear fission reactions, reactor physics, and nuclear power generation. They provide insights into the behavior of neutrons, energy release, and the dynamics of nuclear fission processes.
+     The half-life represents the time it takes for half of the radioactive material to decay.  
+      By substituting the value of λ into the decay equation,  
+       you can calculate the quantity of the radioactive material at any given time (N(t)).  
+  
+    It's important to note that the decay equation assumes exponential decay and does not consider factors
+     such as radioactive decay chains, radioactive daughters, or interactions with the environment.  
+      These factors can introduce additional complexity into the decay process.  
+  
+9. Fission Yield Equations:  
+    These equations describe the distribution of different fission products and their yields based on the initial fission event.  
+     The fission yield equations describe the distribution of fission products produced during a nuclear fission reaction.  
+      There are multiple fission yield equations, each representing the yield of specific fission product isotopes.   
+       One general form of a fission yield equation can be expressed as:  
+  
+       Y_i = Y_total * β_i
+   
+      In this formula,  
+       Y_i represents the yield of a specific fission product isotope i,  
+   Y_total represents the total fission yield,  
+       β_i represents the branching ratio or fraction of the total yield that corresponds to isotope i.  
+  
+    The total fission yield (Y_total) represents the sum of the yields of all fission product isotopes produced in the fission process.  
+     It accounts for the entire distribution of fission products.  
+  
+    The branching ratio or fraction (β_i) represents the portion of the total fission yield attributed to a specific isotope i.  
+     It is a relative measure of the abundance of that isotope among the fission products.  
+  
+    It's important to note that fission yield equations are specific to each isotope and can vary depending on
+     the fission reaction and the fissile material involved.  
+      Different nuclear data libraries and experimental measurements are used to determine the fission yield values and  
+       branching ratios for specific isotopes.  
+       
+10. Fission Product Decay Heat Equations:  
+     These equations calculate the heat produced by the radioactive decay of fission products and  
+      are important for reactor design and safety analysis.  
+       The fission product decay heat equations describe the rate at which heat is produced as a result of  
+        the radioactive decay of fission products in a nuclear reactor.  
+         The equations are typically represented as a sum of contributions from individual fission product isotopes.  
+          The general formula for the fission product decay heat equation can be expressed as:  
+  
+        Q(t) = ∑ (A_i * λ_i * E_i * e^(-λ_i * t))
+  
+       In this formula,
+         Q(t) represents the decay heat at time t,  
+         A_i represents the initial activity (number of radioactive decays per unit time) of fission product isotope i,  
+         λ_i represents the decay constant of isotope i,  
+         E_i represents the average energy released per decay of isotope i,  
+         e is the base of the natural logarithm.  
+  
+      The decay constant (λ_i) represents the rate at which isotope i decays,  
+       and it is related to the half-life (t½_i) of the isotope through the equation:  
+  
+        λ_i = ln(2) / t½_i
+  
+      The average energy released per decay (E_i) is a characteristic property of each fission product isotope and  
+       represents the energy released when the isotope undergoes radioactive decay.  
+  
+      The decay heat (Q(t)) represents the total heat produced due to the decay of fission products at time t.  
+       It is the sum of contributions from all fission product isotopes.  
+   
+     It's important to note that the specific values for A_i, λ_i,  
+      and E_i are obtained from nuclear data libraries and depend on the fission product isotopes present and  
+       their respective abundances in the reactor.  
+        The decay heat equation is essential for estimating the heat generation and managing  
+         the cooling systems in a nuclear reactor during shutdown and decommissioning phases.  
+          These equations are utilized in the study and analysis of nuclear fission reactions, reactor physics, and   
+           nuclear power generation.  
+            They provide insights into the behavior of neutrons, energy release, and the dynamics of nuclear fission processes.  

@@ -65,6 +65,7 @@ Tantalum-Hafnium-Carbide (Ta-Hf-C) Composite
 Titanium-Silicon Carbide (Ti-SiC) Composite:
 Lanthanum Hexaboride (LaB6)
 Tungsten-Lanthanum Oxide (W-La2O3) Composite
+Samarium-Cobalt (SmCo) Magnet
 
 Beryllium
 Tungsten
@@ -102,4 +103,5 @@ Molybdenum-Tungsten (Mo-W) Alloy
 Lithium-Lithium Aluminum Alloy (Li-LiAl): Li-LiAl alloy
 Uranium Alloy-1/2/3
 Zirconium alloys
+Nitinol (Nickel-Titanium)
 Lead-Lithium Alloy: Lead-lithium (Pb-Li)

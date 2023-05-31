@@ -1,6 +1,5 @@
 Barium
 Plutonium
-
 Carbon
 Vanadium
 Tantalum
@@ -29,7 +28,6 @@ Yttrium Barium Copper Oxide (YBCO)
 
 Magnesium Diboride (MgB2
 Zirconium Diboride (ZrB2)
-
 Zirconium Carbide (ZrC)
 Silicon Carbide (SiC)
 Vanadium Carbide (VC)
@@ -51,6 +49,7 @@ carbon-fiber-reinforced
 
 Molybdenum
 Thorium
+Americium
 Samarium
 Boro
 Deuterium
@@ -59,18 +58,18 @@ Berkelium
 americium
 Lithio-4/6/7
 Helium-3/4
-
 Niobium
+
 Niobium-Titanium (Nb-Ti) Superconductor
 Tantalum-Hafnium-Carbide (Ta-Hf-C) Composite
 Titanium-Silicon Carbide (Ti-SiC) Composite:
 Lanthanum Hexaboride (LaB6)
+Tungsten-Lanthanum Oxide (W-La2O3) Composite
 
 Beryllium
 Tungsten
 Molybdenum
 Graphene
-
 Titanium
 Iron
 Ceramics
@@ -79,6 +78,7 @@ Stainless Steel
 Nickel
 Titanium Aluminides
 alumina (Al2O3)
+TZM (titanium-zirconium-molybdenum)
 
 Hastelloy alloys
 Copper-Chromium (CuCr) Alloy
@@ -100,10 +100,6 @@ Titanium-Zirconium-Molybdenum (TZM) Alloy
 Copper-Chromium-Zirconium (Cu-Cr-Zr) Alloy
 Molybdenum-Tungsten (Mo-W) Alloy
 Lithium-Lithium Aluminum Alloy (Li-LiAl): Li-LiAl alloy
-
-
 Uranium Alloy-1/2/3
 Zirconium alloys
 Lead-Lithium Alloy: Lead-lithium (Pb-Li)
-
-TZM (titanium-zirconium-molybdenum)
